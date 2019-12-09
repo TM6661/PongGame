@@ -435,6 +435,12 @@ healthchecksdb
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
 
+<<<<<<< HEAD
 .vscode
 
 # End of https://www.gitignore.io/api/unity,windows,visualstudio
+=======
+.vscode/
+
+# End of https://www.gitignore.io/api/unity,windows,visualstudio
+>>>>>>> c4c643d298d2480c762c2e49ce27a954ef33a54c
