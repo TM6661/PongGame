@@ -1,0 +1,4 @@
+Tambahan Fitur
+1. PowerUp (melebarkan raket) dengan syarat memblok 5 kali serangan
+2. Tambahan stock bar yang berisi jumlah powerUp yang tersedia
+3. Tombol Exit dengan esc
